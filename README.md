@@ -7,9 +7,7 @@ You dont neccesarily need to download anything, lets starts.
 >2. $from mpesa import MpesaAccount
 >3. $git push origin master
 
-<img src="/download/mpesa.PNG" alt="mpesa"/>
+<img src="C:\users\student\download\mpesa.PNG" alt="mpesa"/>
 
-##BUGS
->No known bugs
 
 arthour : Naima Hassan
